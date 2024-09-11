@@ -32,8 +32,4 @@ This repository includes the following essential files and documentation to help
    - List songs available on a particular platform.
    - Display all creators involved in a song.
 
-## How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo/musicdbms.git
