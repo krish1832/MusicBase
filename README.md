@@ -1,9 +1,9 @@
-<h1 align="center"> Music Base </h1> 
+<h1 align="center"> MusicDB</h1> 
 
 
 ## Overview
 
-**MusicDBMS** is a comprehensive music catalog management system designed to organize and manage music data. The database allows users to interact with songs, playlists, creators, listeners, and other related entities, enabling efficient retrieval and manipulation of music-related data.
+**MusicDB** is a comprehensive music catalog management system designed to organize and manage music data. The database allows users to interact with songs, playlists, creators, listeners, and other related entities, enabling efficient retrieval and manipulation of music-related data.
 
 The system supports:
 - User management for listeners and creators.
